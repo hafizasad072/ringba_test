@@ -1,0 +1,9 @@
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+/.vs/AlgoPractice/DesignTimeBuild/*.dtbcache
+/.vs/ringba_test/v15/Server/sqlite3/*.lock
+/.vs/ringba_test/v15/Server/sqlite3/*.ide
+/.vs/ringba_test/v15/Server/sqlite3/*.ide-shm
+/.vs/ringba_test/v15/Server/sqlite3/*.ide-wal

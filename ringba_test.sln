@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ringba_test", "AlgoPractice\ringba_test.csproj", "{F6A7799F-F6DE-4E58-B2D7-8F0023617CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ringba_test", "ringba_test\ringba_test.csproj", "{F6A7799F-F6DE-4E58-B2D7-8F0023617CE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

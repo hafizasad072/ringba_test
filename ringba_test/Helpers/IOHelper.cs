@@ -13,6 +13,7 @@ namespace ringba_test.Helpers
         {
             if (!File.Exists(Constants.FilePath))
             {
+                Console.WriteLine("Please wait the file is downloading.....");
                 Directory.CreateDirectory(Constants.AppPath);
                 WebClient myWebClient = new WebClient();
                 myWebClient.DownloadFile(Constants.FileUri, Constants.FilePath);
